@@ -15,12 +15,16 @@ DONE
 * In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
 DONME
 * Still inside the `client` folder run `yarn start` to run the client application.
+DONE
 
 ### Part 1:
 
 * Notice that in the `MoviesList` component our `componentDidMount` is missing it's guts.
+DONE
 * Without peeking back at the original assignment, fill this in to retrieve the list of movies once again.
+DONE
 * Be sure to set them on state so that your component can render the list.
+DONE
 
 ### Part 2:
 
